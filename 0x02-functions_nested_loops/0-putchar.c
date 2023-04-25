@@ -1,12 +1,12 @@
-#include <main.h>
+#include "main.h"
 
 /**
- * main - Entry point
+ * main - print _putchar
+ * is written by @bah
  * Return: Always 0 (success)
  */
 
 int main(void)
-
 {
 
 	_putchar('_');
