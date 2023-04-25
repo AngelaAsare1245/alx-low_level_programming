@@ -2,7 +2,7 @@
 
 /**
  * main - print _putchar
- * is written by @bah
+ * is written by mbah
  * Return: Always 0 (success)
  */
 
