@@ -12,5 +12,5 @@ while (*s != '\0')
 longi++;
 s++;
 
-return (string_length);
+return (longi);
 }
