@@ -21,4 +21,5 @@ if (n1 / 10 != 0)
 print_numbers(n1 / 10);
 }
 _putchar((n1 % 10) + '0');
+return (0);
 }
